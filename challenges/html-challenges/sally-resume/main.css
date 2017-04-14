@@ -1,0 +1,63 @@
+header,
+html,
+body,
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.blue {
+    color: #2a60af;
+}
+
+.light-gray {
+    color: #a3a3a3;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+}
+
+.experience {
+    background-color: #2a60af;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+.experience p {
+    color: #f4f0f9;
+}
+
+.experience h2 {
+    color: #dbe0f4;
+}
+
+.experience h3 {
+    color: #f5f2fb;
+}
+
+.experience h3 sub {
+    color: #a3a3a3;
+}
+
+h3  {
+    font-size: 20px;
+}
+
+.education {
+    background-color: #e5dfff;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+address {
+    text-align: center;
+}

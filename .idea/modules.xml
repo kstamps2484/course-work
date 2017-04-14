@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/remote.iml" filepath="$PROJECT_DIR$/.idea/remote.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/website/course-work/.idea/course-work.iml" filepath="$USER_HOME$/workspace/website/course-work/.idea/course-work.iml" />
     </modules>
   </component>
 </project>
