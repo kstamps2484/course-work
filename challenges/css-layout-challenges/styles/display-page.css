@@ -1,0 +1,43 @@
+.outer {
+    width: 800px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 0;
+}
+
+.top-inner {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 0;
+}
+
+.top-inner-1 {
+    background-color: forestgreen;
+}
+
+.top-inner-2 {
+    background-color: blue;
+}
+
+.bottom-inner {
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 0;
+}
+
+.bottom-inner-1 {
+    background-color: gray;
+}
+
+.bottom-inner-2 {
+    background-color: black;
+}
+
+.bottom-inner-3 {
+    background-color: orange;
+}
